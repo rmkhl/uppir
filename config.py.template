@@ -1,0 +1,6 @@
+# Configure the settings
+
+PIR_GPIO = 5
+WIFI_SSID = 'REDACTED'
+WIFI_PSWD = 'REDACTED'
+SLACK_HOOK = 'REDACTED'
